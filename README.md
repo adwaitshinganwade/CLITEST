@@ -1,3 +1,0 @@
-# CLITEST
-
-Initial setup
